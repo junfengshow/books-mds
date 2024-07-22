@@ -1,0 +1,9 @@
+node_modules
+/dist
+/docs-3d
+.dumi/tmp
+.dumi/tmp-production
+.DS_Store
+
+.umi
+.umi-production
